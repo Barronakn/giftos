@@ -1,0 +1,19 @@
+@media screen and (max-width: 1024px) {
+    footer .footer-top {
+        flex-wrap: wrap;
+    }
+
+    footer .p-20 {
+        padding: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    footer .footer-top .w-1\/4 {
+        width: 95%;
+    }
+
+    footer .footer-bottom.mx-44 {
+        margin: auto 20px;
+    }
+}

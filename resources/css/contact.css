@@ -1,0 +1,5 @@
+@media screen and (max-width: 425px) {
+    #contact .w-1\/2 {
+        width: 85%;
+    }
+}
